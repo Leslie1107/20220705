@@ -2,7 +2,9 @@
  
 int main()
 {
-	printf("test code...\n");
+	printf("atest code...\n");
+	printf("btest code...\n");
+	printf("ctest code...\n");
 
 	return 0;
 }
